@@ -37,5 +37,10 @@ export const PORTFOLIO = {
       label: 'Googlescholar',
       href: '/',
     },
+    {
+      icon: 'github.svg',
+      label: 'GitHub',
+      href: 'https://github.com/chandu494',
+    },
   ],
 } as const;
