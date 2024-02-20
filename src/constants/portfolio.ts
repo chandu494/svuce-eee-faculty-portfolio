@@ -1,12 +1,13 @@
 // Portfolio
+
 export const PORTFOLIO = {
   name: 'Dr. J.N. Chandra Sekhar',
+  role: 'Assistant Professor',
+  college: 'Department of Electrical and Electronics Engineering\nSri Venkateswara University\nTirupati',
   profilePic: {
     src: 'profile-pic.jpg',
     alt: 'profile-pic',
   },
-  role: 'Assistant Professor',
-  college: 'Department of Electrical and Electronics Engineering\nSri Venkateswara University\nTirupati',
   title: {
     template: 'Dr. J.N. Chandra Sekhar',
     default: 'Dr. J.N. Chandra Sekhar',
